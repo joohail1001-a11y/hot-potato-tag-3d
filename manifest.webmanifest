@@ -1,0 +1,11 @@
+{
+  "name": "뜨거운 감자 술래잡기 3D",
+  "short_name": "뜨거운 감자",
+  "description": "감자를 넘기고 마지막까지 살아남는 3D 술래잡기 게임",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#15151b",
+  "theme_color": "#1b161d"
+}
